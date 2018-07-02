@@ -1,0 +1,1 @@
+[{"className":"UsernamesTest","methodName":"goodAccepted","pointNames":["20"],"status":"PASSED"},{"className":"UsernamesTest","methodName":"badRejected","pointNames":["20"],"status":"PASSED"}]
